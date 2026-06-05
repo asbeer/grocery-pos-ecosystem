@@ -1,0 +1,49 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+
+# Android Studio
+.gradle/
+.idea/
+*.iml
+build/
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+packages/
+
+# Logs
+*.log
+*.logs
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+release/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
